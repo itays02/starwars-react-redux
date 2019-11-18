@@ -1,4 +1,5 @@
 # React - Star Wars
+Sample React - Redux app
 
 Running the project:
 ```
